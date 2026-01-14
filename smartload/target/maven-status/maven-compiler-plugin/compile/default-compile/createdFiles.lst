@@ -1,0 +1,8 @@
+com\example\smartload\Model\OptimizeResponse.class
+com\example\smartload\Model\Order.class
+com\example\smartload\Model\Truck.class
+com\example\smartload\Model\OptimizeRequest.class
+com\example\smartload\Exception\GlobalExceptionHandler.class
+com\example\smartload\Controller\LoadOptimizerController.class
+com\example\smartload\SmartloadOptimizerApplication.class
+com\example\smartload\Service\LoadOptimizerService.class
